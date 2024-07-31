@@ -18,7 +18,7 @@ This is the microservice for listining User in the +Kotas App.
    - [Evidence](#evidence)
 3. [Usage](#usage)
    - [Verify Server Functionality](#verify-server-functionality)
-   - [List Users](#list-users)
+   - [List the Users](#list-the-users)
 
 
 ## Microservice Description
