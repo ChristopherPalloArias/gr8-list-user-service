@@ -15,11 +15,10 @@ This is the microservice for listining User in the +Kotas App.
    - [Clone the Repository](#clone-the-repository)
    - [Install Dependencies](#install-dependencies)
    - [Start the Server](#start-the-server)
-   - [Evidence](#evidence-create)
+   - [Evidence](#evidence)
 3. [Usage](#usage)
    - [Verify Server Functionality](#verify-server-functionality)
-   - [Add a New Product](#add-a-new-product)
-4. [Evidence](#evidence-create)
+   - [List Users](#list-users)
 
 
 ## Microservice Description
