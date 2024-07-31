@@ -50,11 +50,9 @@ Before starting the application you must change the database credentials in the 
 Repository: [https://github.com/ChristopherPalloArias/kotas-frontend](https://github.com/ChristopherPalloArias/kotas-frontend.git)
 
 ### Evidence
-![image](https://github.com/user-attachments/assets/041fbeaf-9019-44f7-a4f9-3ce9ccb43031)
-
+![image](https://github.com/user-attachments/assets/e38e2d8f-379f-4560-8049-42f666d376d4)
 
 ## Usage
-
 ### Verify Server Functionality
 
 Method: GET  
@@ -66,6 +64,7 @@ Description: This route displays a message to verify that the server is running.
 ### List the Users
 
 Method: GET  
-URL: `http://localhost:8083/products`  
-Description: This route returns the list of products in inventory.
-![image](https://github.com/user-attachments/assets/ee4c1f5e-3530-4ed5-a602-c51615727511)
+URL: `http://gr8-load-balancer-users-1719093065.us-east-2.elb.amazonaws.com:8083/users`  
+Description: This route returns the list of users in the +kotas app.
+![image](https://github.com/user-attachments/assets/3bfef50e-4a0b-4fec-97b2-85619b180a36)
+
