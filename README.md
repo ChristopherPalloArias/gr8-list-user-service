@@ -36,7 +36,7 @@ The `list-user-service` microservice is responsible for managing the list of use
 
 ```sh
 https://github.com/ChristopherPalloArias/gr8-list-user-service.git
-cd list-product-service
+cd list-user-service
 ```
 
 ### Install Dependencies
