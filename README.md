@@ -50,7 +50,7 @@ Before starting the application you must change the database credentials in the 
 Repository: [https://github.com/ChristopherPalloArias/kotas-frontend](https://github.com/ChristopherPalloArias/kotas-frontend.git)
 
 ### Evidence
-![image](https://github.com/user-attachments/assets/e38e2d8f-379f-4560-8049-42f666d376d4)
+![image](https://github.com/user-attachments/assets/08637b39-8637-49c6-b737-44cb2e0a3c87)
 
 ## Usage
 ### Verify Server Functionality
